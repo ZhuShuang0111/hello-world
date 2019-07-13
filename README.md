@@ -1,6 +1,5 @@
 # hello-world
 just another repository
 
-
-this is the first cord
+this is the first code
 
